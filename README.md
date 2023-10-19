@@ -1,3 +1,6 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=31&pause=1000&color=26FFE0&background=232F448B&center=true&random=false&width=435&lines=Hey!+%2C+I+am+Tamojit+;WELCOME+TO+MY+PROFILE" alt="Typing SVG" /></a>
+
+
 <h1 align="center">Hello👋, I'm Tamojit Mandal</h1>
 <h3 align="center">passionate to explore new things</h3>
 
@@ -21,5 +24,5 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-
+(https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E87C0&background=91919100&random=false&width=435&lines=Hey!+%2C+I+am+Tamojit)](https://git.io/typing-svg)
 
