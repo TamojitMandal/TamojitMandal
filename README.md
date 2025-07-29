@@ -1,27 +1,18 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=31&pause=1000&color=26FFE0&background=232F448B&center=true&random=false&width=435&lines=Hey!+%2C+I+am+Tamojit+;WELCOME+TO+MY+PROFILE" alt="Typing SVG" /></a>
+# 💫 About Me:
+## 👋 Hello there, I'm **Tamojit Mandal**<br><br>🚀 I'm a **passionate developer** who loves exploring new technologies and building cool things on the web!<br>---<br> 💻 What I’m up to:<br>- 🔭 Currently working on **Web Development Projects**<br>- 🌱 Actively learning **Full-Stack Web Development**<br>- 💬 Ask me about **Python**, **Java**, **MySQL**<br>---<br> 📫 How to reach me:<br>- 📧 Email: **tamojitm23@gmail.com**<br>---<br>⚡ Fun Fact:<br>I **love coding**... until a bug shows up and I start questioning every life decision 😅🐛💻<br>---<br>🛠️ Always building, always learning. Let’s connect and create something awesome!<br>
 
 
-<h1 align="center">Hello👋, I'm Tamojit Mandal</h1>
-<h3 align="center">passionate to explore new things</h3>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TamojitMandal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TamojitMandal7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tamojitm23@gmail.com) 
 
-- 🔭 I’m currently working on **web develpoment**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TamojitMandal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=TamojitMandal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TamojitMandal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning **c,web development**
+---
+[![](https://visitcount.itsvg.in/api?id=TamojitMandal&icon=6&color=0)](https://visitcount.itsvg.in)
 
-- 💬 Ask me about **python,java,mysql**
-
-- 📫 How to reach me **tamojitm23@gmail.com**
-
-- ⚡ Fun fact **I am a beginner in this coding world**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/tamojit.mandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tamojit.mandal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tamojitmandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tamojitmandal" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
